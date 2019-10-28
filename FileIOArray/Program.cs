@@ -55,7 +55,7 @@ namespace FileIOArray
 
 
                 //
-                //Display as table
+                // Display as table
                 //
                 Console.WriteLine(
                     FirstName.PadRight(15) +
